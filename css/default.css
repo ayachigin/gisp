@@ -1,0 +1,44 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #333;
+}
+
+.wf-kokoro { font-family: "Kokoro"; }
+
+div.body {
+  color: #1a1a1a;
+  background-color: #eee;
+  margin-bottom: -270px;
+  padding-bottom: 300px;
+  min-height: 100%;
+  height: auto;
+}
+
+.active {
+  background: #ccc;
+  color: #000;
+}
+
+h1:first-letter,
+h2:first-letter,
+h3:first-letter,
+h4:first-letter,
+h5:first-letter,
+h6:first-letter{
+  color: #de860f;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-kerning: normal;
+}
+
+footer {
+  padding-top: 30px;
+  background:#d9d9d9;
+  color: #1a1a1a;
+  height: 300px;
+  width: 100%;
+}
