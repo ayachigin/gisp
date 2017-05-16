@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ゴーストイメソンプロジェクト</title>
+    <link href="http://ayachigin.github.io/gisp/atom.xml" rel="self" />
+    <link href="http://ayachigin.github.io/gisp" />
+    <id>http://ayachigin.github.io/gisp/atom.xml</id>
+    <author>
+        <name>あやちぎん</name>
+        <email>ayachigin@gmail.com</email>
+    </author>
+    <updated>2017-05-13T00:00:00Z</updated>
+    <entry>
+    <title>サイト公開</title>
+    <link href="http://ayachigin.github.io/gisp/posts/2017-05-13-Very-new-news.html" />
+    <id>http://ayachigin.github.io/gisp/posts/2017-05-13-Very-new-news.html</id>
+    <published>2017-05-13T00:00:00Z</published>
+    <updated>2017-05-13T00:00:00Z</updated>
+    <summary type="html"><![CDATA[ゴーストイメソンプロジェクトのサイトを公開しました]]></summary>
+</entry>
+
+</feed>
