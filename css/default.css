@@ -11,8 +11,8 @@ body {
 div.body {
   color: #1a1a1a;
   background-color: #eee;
-  margin-bottom: -270px;
-  padding-bottom: 300px;
+  margin-bottom: -300px;
+  padding-bottom: 330px;
   min-height: 100%;
   height: auto;
 }
