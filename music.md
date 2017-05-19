@@ -17,3 +17,9 @@ title: Music
 ### 繋ぐいと
 作詞作曲あやちぎん<br>
 「アリアドネの糸」をイメージした曲
+
+## GHOST IN THE SOUND
+2010年に「何かキャラソンプロジェクト」という企画で制作したアルバムです<br>
+<img src="images/album.png" alt="何かキャラソンプロジェクトのジャケット" class="img-thumbnail"><br>
+
+<a class="btn btn-primary" href="/music/GHOST IN THE SOUND.zip" role="button" data-tracking="Music,Download,GhostInTheSound">ダウンロード(zip 約42MB)</a>
