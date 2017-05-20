@@ -53,23 +53,24 @@ footer {
 }
 
 #imeprotan > div{
-  margin-right: 0px;
-  animation: anime1 8s ease -2s 1 alternate;
+  right: 0px;
+  position: relative;
+  animation: anime1 8s ease 0s 1 normal;
 }
 
 #imeprotan > div:hover {
-  animation: anime2 1s ease 0s 1 alternate;
+  animation: anime2 1s ease-in-out 0s 1 normal;
 }
 
 @keyframes anime1 {
-  0% {margin-right: -200px}
-  30% {margin-right: -150px}
-  50% {margin-right: -200px}
-  100% {margin-right: 0px}
-
+  0% {right: -200px}
+  20% {right: -200px}
+  40% {right: -30px}
+  50% {right: -140px}
+  100% {right: 0px}
 }
 
 @keyframes anime2 {
-  0% {margin-right: 0px}
-  100% {margin-right: -200px}
+  0% {right: 0px}
+  100% {right: -200px}
 }
