@@ -7,8 +7,16 @@
         <description><![CDATA[ゴーストをイメージして楽曲を作ろう！って企画のサイト]]></description>
         <atom:link href="http://ayachigin.github.io/gisp/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Sat, 13 May 2017 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2017 00:00:00 UT</lastBuildDate>
         <item>
+    <title>参加者募集開始</title>
+    <link>http://ayachigin.github.io/gisp/posts/2017-05-20-.html</link>
+    <description><![CDATA[ゴーストイメソンプロジェクトの参加者募集を開始しました]]></description>
+    <pubDate>Sat, 20 May 2017 00:00:00 UT</pubDate>
+    <guid>http://ayachigin.github.io/gisp/posts/2017-05-20-.html</guid>
+    <dc:creator>あやちぎん</dc:creator>
+</item>
+<item>
     <title>サイト公開</title>
     <link>http://ayachigin.github.io/gisp/posts/2017-05-13-Very-new-news.html</link>
     <description><![CDATA[ゴーストイメソンプロジェクトのサイトを公開しました]]></description>
