@@ -36,9 +36,39 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 footer {
+  position: relaltive;
   padding-top: 30px;
   background:#d9d9d9;
   color: #1a1a1a;
   height: 300px;
   width: 100%;
+}
+
+#imeprotan {
+  position: absolute;
+  bottom: 278px;
+  right: 0;
+  overflow: hidden;
+}
+
+#imeprotan > div{
+  margin-right: 0px;
+  animation: anime1 8s ease -2s 1 alternate;
+}
+
+#imeprotan > div:hover {
+  animation: anime2 1s ease 0s 1 alternate;
+}
+
+@keyframes anime1 {
+  0% {margin-right: -200px}
+  30% {margin-right: -150px}
+  50% {margin-right: -200px}
+  100% {margin-right: 0px}
+
+}
+
+@keyframes anime2 {
+  0% {margin-right: 0px}
+  100% {margin-right: -200px}
 }
