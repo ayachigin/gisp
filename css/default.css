@@ -11,8 +11,8 @@ body {
 div.body {
   color: #1a1a1a;
   background-color: #eee;
-  margin-bottom: -300px;
-  padding-bottom: 330px;
+  margin-bottom: -600px;
+  padding-bottom: 630px;
   min-height: 100%;
   height: auto;
 }
@@ -39,7 +39,7 @@ footer {
   padding-top: 30px;
   background:#d9d9d9;
   color: #1a1a1a;
-  height: 300px;
+  min-height: 600px;
   width: 100%;
 }
 
