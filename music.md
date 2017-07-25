@@ -4,19 +4,33 @@ title: Music
 
 ## サンプル楽曲
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/324221526&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/340413632&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-### 大捕物諮問録
-りすなさん作詞作曲<br>
-「同心よつぐ」をイメージして制作された曲
+### A Day
+kaerucarさん作詞作曲<br>
+「[奏でる日常の音色](http://nanachi.sakura.ne.jp/kanade.html)」をイメージした曲
 
-### パンのうた
-作詞作曲あやちぎん<br>
-「ロスト・ユー・サムウェア」をイメージした曲
+### Activate
+kaerucarさん作詞作曲<br>
+「[カッシーニの空隙](http://blankrune.sakura.ne.jp/ghost/ghost_info.html)」をイメージして制作された曲
 
-### 繋ぐいと
-作詞作曲あやちぎん<br>
-「アリアドネの糸」をイメージした曲
+### Feather
+kaerucarさん作詞作曲<br>
+「[鉄の夢](http://dormitory315.web.fc2.com/)」をイメージした曲
+
+### サテライト
+amoさん作詞<br>
+あやちぎん作曲<br>
+「[ウチュウステーション.](http://712.shillest.net/)」をイメージした曲
+
+### Dear Milady
+amoさん作詞<br>
+あやちぎん作曲<br>
+「[Yours sincerely](http://usada.sakuratan.com/)」をイメージした曲
+
+### Tomorrow
+kaerucarさん作詞作曲<br>
+「[奏でる日常の音色](http://nanachi.sakura.ne.jp/kanade.html)」をイメージした曲
 
 ## GHOST IN THE SOUND
 2010年に「何かキャラソンプロジェクト」という企画で制作したアルバムです<br>
