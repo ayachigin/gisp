@@ -23,7 +23,7 @@ amoさん作詞<br>
 「[ウチュウステーション.](http://712.shillest.net/)」をイメージした曲
 
 ### Dear Milady
-amoさん作詞<br>
+ゆりさん作詞<br>
 あやちぎん作曲<br>
 「[Yours sincerely](http://usada.sakuratan.com/)」をイメージした曲
 
