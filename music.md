@@ -15,7 +15,7 @@ kaerucarさん作詞作曲<br>
 
 ### Feather
 kaerucarさん作詞作曲<br>
-「[鉄の夢](http://dormitory315.web.fc2.com/)」をイメージした曲
+「[鉄の夢](http://nonamefactory.shillest.net/)」をイメージした曲
 
 ### サテライト
 amoさん作詞<br>
@@ -28,8 +28,8 @@ amoさん作詞<br>
 「[Yours sincerely](http://usada.sakuratan.com/)」をイメージした曲
 
 ### Tomorrow
-kaerucarさん作詞作曲<br>
-「[奏でる日常の音色](http://nanachi.sakura.ne.jp/kanade.html)」をイメージした曲
+kaerucarさん作曲<br>
+「[Bar Lakritze](http://dormitory315.web.fc2.com/)」をイメージした曲
 
 ## GHOST IN THE SOUND
 2010年に「何かキャラソンプロジェクト」という企画で制作したアルバムです<br>
