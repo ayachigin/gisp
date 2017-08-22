@@ -31,6 +31,16 @@ amoさん作詞<br>
 kaerucarさん作曲<br>
 「[Bar Lakritze](http://dormitory315.web.fc2.com/)」をイメージした曲
 
+### リップルマークときみの足跡
+作詞：鹿毛成士<br>
+作曲：そわこ<br>
+編曲：kaerucar<br>
+[TheseThreeWords](from-a-distance.sakura.ne.jp/) をイメージした曲
+
+
+
+<hr />
+
 ## GHOST IN THE SOUND
 2010年に「何かキャラソンプロジェクト」という企画で制作したアルバムです<br>
 <img src="images/album.png" alt="何かキャラソンプロジェクトのジャケット" class="img-thumbnail"><br>
