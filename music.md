@@ -41,7 +41,7 @@ kaerucarさん作曲<br>
 編曲：緑音<br>
 作詞：あやちぎん<br>
 作曲：あやちぎん<br>
-[幻日幻月環](earlduant.blog.fc2.com/)をイメージした曲
+[幻日幻月環](http://earlduant.blog.fc2.com/)をイメージした曲
 
 
 <hr />
