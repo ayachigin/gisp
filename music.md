@@ -35,8 +35,13 @@ kaerucarさん作曲<br>
 作詞：鹿毛成士<br>
 作曲：そわこ<br>
 編曲：kaerucar<br>
-[TheseThreeWords](from-a-distance.sakura.ne.jp/) をイメージした曲
+[TheseThreeWords](http://from-a-distance.sakura.ne.jp/) をイメージした曲
 
+### パンのうた
+編曲：緑音<br>
+作詞：あやちぎん<br>
+作曲：あやちぎん<br>
+[幻日幻月環](earlduant.blog.fc2.com/)をイメージした曲
 
 
 <hr />
