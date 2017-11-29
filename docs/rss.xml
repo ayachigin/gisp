@@ -7,8 +7,16 @@
         <description><![CDATA[ゴーストをイメージして楽曲を作ろう！って企画のサイト]]></description>
         <atom:link href="http://ayachigin.github.io/gisp/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Sun, 16 Jul 2017 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2017 00:00:00 UT</lastBuildDate>
         <item>
+    <title>企画の中止について</title>
+    <link>http://ayachigin.github.io/gisp/posts/2017-11-29-.html</link>
+    <description><![CDATA[企画の中止に伴う内容の変更について]]></description>
+    <pubDate>Wed, 29 Nov 2017 00:00:00 UT</pubDate>
+    <guid>http://ayachigin.github.io/gisp/posts/2017-11-29-.html</guid>
+    <dc:creator>あやちぎん</dc:creator>
+</item>
+<item>
     <title>活動報告その２</title>
     <link>http://ayachigin.github.io/gisp/posts/2017-07-16-.html</link>
     <description><![CDATA[楽曲の制作がどんどん進行しています！]]></description>
